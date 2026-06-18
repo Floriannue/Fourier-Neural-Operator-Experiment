@@ -1,4 +1,6 @@
 """
+Code and data inspired from https://neuraloperator.github.io/dev/theory_guide/fno.html
+
 w_branch_experiment.py: does the local W branch in FNO matter?
 
 Tests three variants:
